@@ -31,19 +31,19 @@ The convergence criteria is Euclidean distance and the number of maximum iterati
 ### Experiment 2
 Observations show a monotonically decreasing SSE as K increases, which may indicate over-clustering. However, visual inspection suggests only 3 distinct clusters in the data.
 
-![](2/each_k.png)
+![](figs/2/each_k.png)
 *Figure 5: SSE plotted against each K*
 
 ### Experiment 3
 Multiple runs of K-means with different initial centroids illustrate how varied initial points can lead to different convergence results, sometimes achieving the global optimum.
 
-![](3/1stlastit.png)
+![](figs/3/1stlastit.png)
 *Figure 6: 1st attempt, last iteration*
 
-![](3/2ndlastit.png)
+![](figs/3/2ndlastit.png)
 *Figure 7: 2nd attempt*
 
-![](3/3rd_k3it3.png)
+![](figs/3/3rd_k3it3.png)
 *Figure 8: 3rd attempt*
 
 ## Conclusion
