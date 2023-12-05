@@ -43,7 +43,7 @@ Multiple runs of K-means with different initial centroids illustrate how varied 
 ![](figs/3/2ndlastit.png)
 *Figure 7: 2nd attempt*
 
-![](figs/3/3rd_k3it3.png)
+![](figs/3/3rdlastit.png)
 *Figure 8: 3rd attempt*
 
 ## Conclusion
