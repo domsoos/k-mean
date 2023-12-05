@@ -1,4 +1,4 @@
-# K-Means Clustering Analysis README
+# K-Means Clustering Analysis
 
 ## Running the Code
 
