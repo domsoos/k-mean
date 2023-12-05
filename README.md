@@ -1,5 +1,14 @@
 # K-Means Clustering Analysis README
 
+## Running the Code
+
+To run the K-means clustering analysis, follow these steps:
+1. Upon cloning the repository, cd into k-mean where `k-mean.py` script is.
+3. Execute the script by running the following command in your terminal:
+```bash
+   python3 k-mean.py
+```
+
 ## Instructions
 
 ### Experiment 1
